@@ -1,17 +1,15 @@
-# Title
-## Plant List
+# US1 - Plant List
 
 ## Value Proposition
 
-As a plants enthusiast
-i want to see a list of plants
-so that i can have an overview of different plants to 
-get some inspiration
+As a plants enthusiast </br>
+i want to see a list of plants </br>
+so that i can have an overview of different plants to get some inspiration
 
 ## Description
 
 a list of all the plants
-![](./user-story-1.png)
+![US1](image-user-story1.png)
 
 ## Acceptance Criteria
 
@@ -28,10 +26,8 @@ a list of all the plants
 
 ## Tasks
 - [ ] create the feature branch "plant-list"
-- [ ] find an api to fetch the plants or create your own Data-Base of plants
+- [ ] create your own database with example plants
 - [ ] implement error handling logic to display an error message to the user if there is problems loading the plant data
-- [ ] create a component for the HTML structure(grid view)which renders:
+- [ ] create component for the HTML structure(grid view)which renders in Homepage:
 - [ ] name of the plant
 - [ ] image of the plant
-- [ ] create a function to randomize the grid view
-
