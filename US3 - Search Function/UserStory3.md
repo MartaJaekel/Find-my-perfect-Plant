@@ -13,19 +13,23 @@ a search bar at the top of the list </br>
 
 ## Acceptance Criteria
 
-- [ ] clickable search field on the homepage
-- [ ] search field works `onClick`
-- [ ] the plant name is displayed
-- [ ] a list of size, water need, sunlight and temperature is displayed
-- [ ] a description is shown
-- [ ] an Icon is implemented at top left hand corner and when clicked gets the user to the
-home page
+- [ ] clickable search bar should be prominently displayed on the homepage
+- [ ] the search bar should feature an input field
+- [ ] the search bar should include a search button or icon that users can click on to initiate the search
+- [ ] the search bar should include a delete button or icon that users can click on to reset the search
+- [ ] search field works `onChange`, allowing users to initiate a search
+- [ ] Plants that match the search are displayed
+- [ ] if there are no results, an alert with the information, that we could not find a result, is displayed and can be closed through an button in the corner
+- [ ] if we don't enter anything in the search field or delete the search with the "x"-button, all plants are displayed
 
 ## Tasks
-- [ ] create the feature branch "detail-page"
-- [ ] create a new page named detail page
-- [ ] create a Link to get to the individual detail page
-- [ ] implement image
-- [ ] add a list of size, water, sunlight and temperature 
-- [ ] add a description text of the plant
-- [ ] implement a icon/svg of a back-arrow-icon as a Link to get back to the homepage "/"
+
+- [ ] create the feature branch "Searchfunction"
+- [ ] create a form field component with an input field
+- [ ] update the design and implement the search bar component
+- [ ] implement a filter mechanism to provide a real-time auto-suggestion based on the input
+- [ ] integrate a search button or an icon (eg. SVG)
+- [ ] integrate a delete button or an icon (eg. SVG)
+- [ ] define the criteria for generating relevant search results (plant common name)
+- [ ] implement an error message in case no results are found
+- [ ] integrate a a delete button or an icon (eg. SVG) in the error message to close the field
