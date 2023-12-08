@@ -32,4 +32,4 @@ a search bar at the top of the list </br>
 - [ ] integrate a delete button or an icon (eg. SVG)
 - [ ] define the criteria for generating relevant search results (plant common name)
 - [ ] implement an error message in case no results are found
-- [ ] integrate a a delete button or an icon (eg. SVG) in the error message to close the field
+- [ ] integrate a delete button or an icon (eg. SVG) in the error message to close the field
