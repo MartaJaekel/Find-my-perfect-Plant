@@ -8,7 +8,7 @@ so that i can only see plants that fit my needs.
 
 ## Description
 
-a navigation bar at the bottom </br>
+a form above the plant list to add individual preferences </br>
 ![US4](image.png)
 
 ## Acceptance Criteria
