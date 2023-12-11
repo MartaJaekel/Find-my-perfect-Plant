@@ -14,6 +14,7 @@ a navigation bar at the bottom </br>
 ## Acceptance Criteria
 
 - [ ] a navbar is displayed at the bottom (fixed)
+- [ ] the preferences form is now located at a own Preferences Page
 - [ ] Two icons are implemented and when clicked get the user to homepage or to the personal preferences Page
 - [ ] the added title of the preferences is above the plants overview
 
